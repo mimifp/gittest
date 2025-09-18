@@ -1,2 +1,2 @@
 # gittest
-Test Git flow
+Git flow
